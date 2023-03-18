@@ -1,5 +1,4 @@
 In the model uses RandomForestRegression algorithm.
-В модели использоавлись библиотеки:
 
 sklearn  - to build a model
 I used RandomForestRegression
