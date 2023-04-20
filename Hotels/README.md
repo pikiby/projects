@@ -13,3 +13,13 @@ Used libraries:
 * pandas - data processing.
 
 The model uses RandomForestRegression algorithm.
+
+links to download data:
+
+hotels_train.csv
+
+https://drive.google.com/file/d/16Xw1pwpg0lPUVeFchcxQRbDgj7e2NUZ-/view?usp=share_link
+
+hotels_test.csv
+
+https://drive.google.com/file/d/1ha76l6i31Oq1bcik74lruD6EYYlWiggI/view?usp=share_link
