@@ -12,4 +12,4 @@ Used libraries:
 * sklearn - tool for creating and training a model;
 * pandas - data processing.
 
-The model uses RandomForestRegression algorithm..
+The model uses RandomForestRegression algorithm.
